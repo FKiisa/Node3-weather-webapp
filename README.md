@@ -1,5 +1,8 @@
-Weather fetching application built via Express.js and Handlebars using outside API.
+### Weather fetching application built via Express.js and Handlebars using outside API.
 
-To run the app use node/nodemon src/app.js
+To install the dependencies run - ```npm i or npm install```
 
-Image to the front page of the webapp https://imgur.com/aesM3z5
+To run the app use - ```npm run start or npm run dev``` (dev will be watching for changes done for the .js .hbs .css & .html files) 
+
+Image to the front page of the webapp 
+![Image](https://i.imgur.com/aesM3z5.png)
